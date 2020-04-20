@@ -1,3 +1,5 @@
-# aulagit
+﻿# aulagit
 Conteúdo git 
-Versão 2
+Versão 3
+
+Ainda testando
